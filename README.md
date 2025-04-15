@@ -1,2 +1,2 @@
 # Red-Team-Tools
-This repo is a stack of tools helpful for Blue Team operations.
+This repo is a stack of tools helpful for Red Team operations.
